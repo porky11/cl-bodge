@@ -5,3 +5,4 @@
 
 
 (def-suite :bodge-text :in :bodge)
+(def-suite :bodge-circular-buffer :in :bodge)
